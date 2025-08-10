@@ -73,5 +73,3 @@ pip install -r requirements.txt
 ```
 
 ---
-
-Let me know if you'd like any adjustments!
